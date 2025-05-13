@@ -57,8 +57,13 @@ Utilized useLocation and useNavigation for UI feedback
 
 
 Technical Stack
-Frontend Framework: React
-Routing: React Router v6
-Build Tool: Vite
-Deployment: Netlify
-Styling: CSS Modules
+
+1. Frontend Framework: React
+
+2. Routing: React Router v6
+
+3. Build Tool: Vite
+
+4. Deployment: Netlify
+
+5. Styling: CSS Modules
